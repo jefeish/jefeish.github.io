@@ -1,6 +1,5 @@
 # ![GitHub Logo](/images/githublogo.png) GitHub Enterprise Solutions
 
-
 # Company: Acme Computers Inc.
 
 ## 1. *Acme wants GitHub to help them shrink the large repository to a more manageable size that is performant for common Git operations. The large repo is a project that is high visibility with an aggressive roadmap. They request that we help them within the month.*
@@ -117,8 +116,7 @@ Note: The following steps assume the *Consolidated GitHub Enterprise* target env
 ## Baseline Inventory Sample
 
 Repository | GitHub Installation | Version | Repo Size | Number of Contributors | Number of Commits | Last Commit | Deployment Frequency | Business Importance (low/medium/high)
---- | --- | ---
+--- | --- | --- | --- | --- | --- | --- | --- | --- 
 foo | GitHub Enterprise | 2.9.4 | 7 GB | 20 | 30 | 07/09/18 | weekly | medium
-
 | | | | | | | |
 
